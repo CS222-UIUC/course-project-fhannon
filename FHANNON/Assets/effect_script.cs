@@ -11,6 +11,7 @@ public class effect_script : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        gameObject.tag = "Effect";
         spriteRenderer = GetComponent<SpriteRenderer>();
         
     }
