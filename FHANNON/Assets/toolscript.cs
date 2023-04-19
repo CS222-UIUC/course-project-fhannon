@@ -34,6 +34,7 @@ public class toolscript : MonoBehaviour
 
     }
 
+
     public virtual void MakeEffect(){
         world_position = Camera.main.ScreenToWorldPoint(Input.mousePosition);
         Instantiate(effect, world_position, Quaternion.identity);
