@@ -35,7 +35,7 @@ public class eraser_script : toolscript
     }
 
     public override void Animate(){
-        if(mouse_clicked_frames >= 35){
+        if(mouse_clicked_frames >= 10){
             mouse_clicked_frames = 0;
             image.sprite = wand_unused;
 
