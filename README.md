@@ -22,7 +22,7 @@ There are 2 main parent components: Tools and Effects. The Tool GameObject serve
     1. Download the repository course-project-fhannon
         a. Download as a zip and then decompress the package.
     2. Open the app titled "CrushYourComputer"
-    3. tart cracking!
+    3. Start cracking!
 
 ### Group Members and Their Roles
 
